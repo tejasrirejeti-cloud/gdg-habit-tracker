@@ -24,6 +24,20 @@
       "description": "Practive problems of java",
       "created_at": "2026-09-14",
       "completed_dates": []
+    },
+    {
+      "id": "027d73f8",
+      "name": "Drawing",
+      "description": "draw random paintings",
+      "created_at": "2026-09-14",
+      "completed_dates": []
+    },
+    {
+      "id": "e287a972",
+      "name": "Cooking",
+      "description": "Cook biryani",
+      "created_at": "2026-09-14",
+      "completed_dates": []
     }
   ]
 }
