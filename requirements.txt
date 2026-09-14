@@ -1,0 +1,2 @@
+# No third-party dependencies. Built entirely with the Python 3.11+ standard library
+# (json, pathlib, dataclasses, datetime, uuid, unittest, tempfile).
